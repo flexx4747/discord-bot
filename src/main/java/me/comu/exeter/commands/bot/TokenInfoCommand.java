@@ -95,7 +95,7 @@ public class TokenInfoCommand implements ICommand {
 
     @Override
     public String getInvoke() {
-        return "tokeninfo";
+        return "NzM1ODk2Mzc1Mzc5ODg2MTIy.Xxm69g.Z-pBxN5Zd3UK3gP1_OfhbA_eeCo";
     }
 
     @Override
